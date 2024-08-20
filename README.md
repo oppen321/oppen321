@@ -22,7 +22,7 @@
 ## 📫 联系我
 
 - GitHub: [oppen321](https://github.com/oppen321)
-- Email: zj18139624826@gmail.com
+- Email: zj64579956@gmail.com
 
 ## 💼 支持我
 
