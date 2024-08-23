@@ -32,4 +32,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=oppen321&show_icons=true&theme=radical" alt="oppen321 GitHub Stats">
 </div>
 
-# ![oppen321's GitHub](https://img.shields.io/badge/oppen321's_GitHub-1E90FF?style=for-the-badge)
