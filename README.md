@@ -36,16 +36,3 @@
 
 # ![oppen321's GitHub](https://img.shields.io/badge/oppen321-GitHub-blue?style=for-the-badge&logo=github)
 
-### Hi there 👋
-
-I am **oppen321**, passionate about OpenWrt and firmware development. 
-
-### 🏆 My GitHub Stats
-
-![oppen321's GitHub stats](https://github-readme-stats.vercel.app/api?username=oppen321&show_icons=true&theme=radical)
-
-### 🔥 Top Repositories
-
-- [OpenWrt-CTC](https://github.com/oppen321/OpenWrt-CTC)
-- [immortalwrt-Action](https://github.com/oppen321/immortalwrt-Action)
-- [Lede-OpenWrt](https://github.com/oppen321/Lede-OpenWrt)
