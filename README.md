@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=oppen321&label=Profile%20views&color=0e75b6&style=flat" alt="oppen321" />
   <h1 align="center">Hi, I'm oppen321 👋</h1>
 </div>
-
+# <img src="https://img.shields.io/static/v1?label=oppen321&message=GitHub&color=brightgreen&style=for-the-badge&logo=github" alt="oppen321's GitHub" />
 <div align="center">
   <a href="https://github.com/oppen321/OpenWrt-CTC"><img src="https://img.shields.io/badge/OpenWrt-CTC-blue?style=for-the-badge" alt="OpenWrt-CTC"></a>
   <a href="https://github.com/oppen321/immortalwrt-Action"><img src="https://img.shields.io/badge/ImmortalWrt-Action-orange?style=for-the-badge" alt="ImmortalWrt-Action"></a>
@@ -32,4 +32,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=oppen321&show_icons=true&theme=radical" alt="oppen321 GitHub Stats">
 </div>
 
-# <img src="https://img.shields.io/static/v1?label=oppen321&message=GitHub&color=brightgreen&style=for-the-badge&logo=github" alt="oppen321's GitHub" />
