@@ -34,5 +34,5 @@
 
 # <img src="https://img.shields.io/static/v1?label=oppen321&message=GitHub&color=brightgreen&style=for-the-badge&logo=github" alt="oppen321's GitHub" />
 
-# ![oppen321's GitHub](https://img.shields.io/badge/oppen321-GitHub-blue?style=for-the-badge&logo=github)
+
 
