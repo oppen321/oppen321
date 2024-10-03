@@ -15,7 +15,6 @@
 
 ## 🚀 我的项目
 
-- [OpenWrt-CTC](https://github.com/oppen321/OpenWrt-CTC): 使用官方源码构建的OpenWrt固件，优化性能并增加了多种实用功能。
 - [ImmortalWrt-Action](https://github.com/oppen321/immortalwrt-Action): 基于ImmortalWrt源码的高级配置固件，提供更好的稳定性和扩展性。
 - [LEDE-OpenWrt](https://github.com/oppen321/Lede-OpenWrt): 使用LEDE源码的定制固件，为用户提供轻量化且高效的固件体验。
 - [iStoreOS-action](https://github.com/oppen321/iStoreOS-action): 使用iStoreoOS官方源码编译的固件，iStoreOS提供一个人人会用的的路由、NAS系统 （目前活跃的分支是 istoreos-22.03）
